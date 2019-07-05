@@ -7,9 +7,13 @@ def es_primo(n):
             return False
     return True
 
-suma=0
-for i in range(0, 2000):
-    if es_primo(i):
-        suma+=i
+def main():
+    suma=0
+    for i in range(0, 2000):
+        if es_primo(i):
+            suma+=i
 
-print(suma)
+    print(suma)
+
+if __name__ == '__main__':
+    main()
