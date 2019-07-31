@@ -1,0 +1,4 @@
+Nombre, Apellido, salario
+Ivan, Tactuk, 58
+Ignacio, Gomez, 67
+Martha, Alvarez, 88
